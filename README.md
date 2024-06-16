@@ -1,2 +1,2 @@
-# SpaceShooter
+#SpaceShooter
 "This is my first project on GitHub."
